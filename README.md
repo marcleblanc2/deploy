@@ -1,5 +1,7 @@
 # sourcegraph/deploy: one-click Sourcegraph deployments
 
+Test edit
+
 **This repository is for Sourcegraph developers: for how to deploy Sourcegraph, please see [docs.sourcegraph.com](https://docs.sourcegraph.com)**
 
 This repository is home of Sourcegraph one-click deployments (AMIs, VM images, etc.) distributed through various cloud providers.
